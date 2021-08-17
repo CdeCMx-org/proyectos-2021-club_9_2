@@ -51,3 +51,44 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
 * Estudiante 3
 * Estudiante 4
 
+### Integrantes del equipo
+<section class="fdb-block team-4">
+  <div class="container">
+    <div class="row text-center justify-content-center">
+      <div class="col-8">
+        <h1>Integrantes</h1>
+      </div>
+    </div>
+
+    <div class="row text-center mt-5">
+      <div class="col-3">
+        <img alt="image" class="img-fluid rounded" src="./imgs/people/5.jpg">
+        <h3><strong>Karla Alvarez</strong></h3>
+        <p>Licenciatura en Química</p>
+        <p>A wonderful serenity has taken possession of my entire soul.</p>
+      </div>
+
+      <div class="col-3">
+        <img alt="image" class="img-fluid rounded" src="./imgs/people/6.jpg">
+        <h3><strong>John Smith</strong></h3>
+        <p>Position</p>
+        <p>Pityful a rethoric question ran over her cheek.</p>
+      </div>
+
+      <div class="col-3">
+        <img alt="image" class="img-fluid rounded" src="./imgs/people/3.jpg">
+        <h3><strong>John Smith</strong></h3>
+        <p>Position</p>
+        <p>And if she hasn’t been rewritten, then they are still using her.</p>
+      </div>
+
+      <div class="col-3">
+        <img alt="image" class="img-fluid rounded" src="./imgs/people/2.jpg">
+        <h3><strong>John Smith</strong></h3>
+        <p>Position</p>
+        <p>Wild Question Marks, but the Little Blind Text didn’t listen.</p>
+      </div>
+    </div>
+  </div>
+</section>
+A black silhouette of a cartoon cat without features against a white background.
